@@ -22,8 +22,14 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 Booking Related Statistics
 ![](Dashboard_Screenshots/BookingStats.png)
 
+Booking Drilldown Statistics
+![](Dashboard_Screenshots/Booking_Drilldown.png)
+
 Revenue Related Statistics
 ![](Dashboard_Screenshots/RevenueStats.png)
+
+Revenue Drilldown Statistics
+![](Dashboard_Screenshots/Revenue_Drilldown.png)
 
 Capacity and Rating Related Statistics
 ![](Dashboard_Screenshots/CapacityAndRatingStats.png)
